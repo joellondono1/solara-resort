@@ -1,0 +1,239 @@
+<div class="header faqs"></div>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <h6>Frequently Asked Questions</h6>
+      <br>
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="index">
+            <a class="btn-link" href="#1">Resort Questions</a>
+            <a class="btn-link" href="#2">Website Questions</a>
+            <a class="btn-link" href="#3">Association Questions</a>
+          </div>
+        </div>
+        <div class="spacer"></div>
+        <div class="spacer"></div>
+        <div class="col-xs-12">
+          <div class="panel-group" role="tablist">
+            <h3>Resort Questions</h3>
+            <div id="1" class="anchor"></div>
+            <br>
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab">
+                <h2 class="panel-title">
+                  <a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#clubhousestaff" role="button">How can I contact the clubhouse staff?? <i class="glyphicon glyphicon-plus-sign"></i>
+                    <i class="glyphicon glyphicon-minus-sign"></i>
+                  </a>
+                </h2>
+              </div>
+              <div class="panel-collapse collapse" id="clubhousestaff" role="tabpanel">
+                <div class="panel-body">
+                  <p>The clubhouse staff at the Solara Resort Clubhouse may be reached by calling (407) 479-5500.</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab">
+                <h2 class="panel-title">
+                  <a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#opentimes" role="button">What are the clubhouse hours? <i class="glyphicon glyphicon-plus-sign"></i>
+                    <i class="glyphicon glyphicon-minus-sign"></i>
+                  </a>
+                </h2>
+              </div>
+              <div class="panel-collapse collapse" id="opentimes" role="tabpanel">
+                <div class="panel-body">
+                  <p>The clubhouse is open from 8:00 am to 8:00 pm.</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab">
+                <h2 class="panel-title">
+                  <a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#salesaddress" role="button">What is the address for the sales office? <i class="glyphicon glyphicon-plus-sign"></i>
+                    <i class="glyphicon glyphicon-minus-sign"></i>
+                  </a>
+                </h2>
+              </div>
+              <div class="panel-collapse collapse" id="salesaddress" role="tabpanel">
+                <div class="panel-body">
+                  <p>The sales office is located within the Clubhouse: 1575 Carey Palm Circl Kissimmee, FL 34747</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab">
+                <h2 class="panel-title">
+                  <a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#salesinfo" role="button">Where can I find sales information on Solara Resort? <i class="glyphicon glyphicon-plus-sign"></i>
+                    <i class="glyphicon glyphicon-minus-sign"></i>
+                  </a>
+                </h2>
+              </div>
+              <div class="panel-collapse collapse" id="salesinfo" role="tabpanel">
+                <div class="panel-body">
+                  <p>Click the link below for more information from Mattamy Homes: <a href="https://web.archive.org/web/20191221144050/https://mattamyhomes.com/orlando/communities/osceola-solara-at-westside.aspx" class="btn-link">https://mattamyhomes.com/orlando/communities/osceola-solara-at-westside</a>. </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="spacer"></div>
+          <hr />
+          <div class="spacer"></div>
+          <div class="panel-group" role="tablist">
+            <h3>Website Questions</h3>
+            <div id="2" class="anchor"></div>
+            <br>
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab">
+                <h2 class="panel-title">
+                  <a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#password" role="button">I forgot my password, is there a way to reset it? <i class="glyphicon glyphicon-plus-sign"></i>
+                    <i class="glyphicon glyphicon-minus-sign"></i>
+                  </a>
+                </h2>
+              </div>
+              <div class="panel-collapse collapse" id="password" role="tabpanel">
+                <div class="panel-body">
+                  <p>If you have forgotten your password you may reset it by clicking this link - <a class="btn-link" href="https://www.lelandmanagement.com/community_sessions/reset">lelandmanagement.com/community_sessions/reset</a>. Enter your username and click the "Email me a password reset" button, then check your inbox for the email confirmation. Click the link in the email, create a new password, and click "change password". If you are still having issues with logging in, please contact resident support. </p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab">
+                <h2 class="panel-title">
+                  <a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#username" role="button">I forgot my username, is there a way to recover it? <i class="glyphicon glyphicon-plus-sign"></i>
+                    <i class="glyphicon glyphicon-minus-sign"></i>
+                  </a>
+                </h2>
+              </div>
+              <div class="panel-collapse collapse" id="username" role="tabpanel">
+                <div class="panel-body">
+                  <p>If you have forgotten your username you may recover it by clicking this link - <a class="btn-link" href="https://www.lelandmanagement.com/community_sessions/recover_username">lelandmanagement.com/community_sessions/recover_username</a>. Enter in your email and account number, then click the "Email me my username" button. An email will be sent to your inbox containing your username. </p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab">
+                <h2 class="panel-title">
+                  <a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#logout" role="button">How do I logout? <i class="glyphicon glyphicon-plus-sign"></i>
+                    <i class="glyphicon glyphicon-minus-sign"></i>
+                  </a>
+                </h2>
+              </div>
+              <div class="panel-collapse collapse" id="logout" role="tabpanel">
+                <div class="panel-body">
+                  <p>You may logout by clicking this link - <a class="btn-link" href="https://www.lelandmanagement.com/community_sessions/logout">lelandmanagement.com/community_sessions/logout</a>, or by click logout on the top right. If you are on a mobile device, the logout option will be on the top of the menu. </p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab">
+                <h2 class="panel-title">
+                  <a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#emails" role="button">How do I opt-in to receive email communications? <i class="glyphicon glyphicon-plus-sign"></i>
+                    <i class="glyphicon glyphicon-minus-sign"></i>
+                  </a>
+                </h2>
+              </div>
+              <div class="panel-collapse collapse" id="emails" role="tabpanel">
+                <div class="panel-body">
+                  <p>To opt-in to receive email communications, follow these steps. Go to My Account > Profile and scroll down to the email subscription section. There, you will see multiple categories withe checkboxes next to them. Check the box next to the types of emails you would like to receive, the scroll down and save your changes. To opt-out of receiving emails, repeat the steps and ensure that all boxes are unchecked.</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab">
+                <h2 class="panel-title">
+                  <a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#documents" role="button">I've lost my documents, or never received a copy. Where can i find them? <i class="glyphicon glyphicon-plus-sign"></i>
+                    <i class="glyphicon glyphicon-minus-sign"></i>
+                  </a>
+                </h2>
+              </div>
+              <div class="panel-collapse collapse" id="documents" role="tabpanel">
+                <div class="panel-body">
+                  <p>You can download the documents from the documents page or contact your community association manager for assistance.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="spacer"></div>
+          <hr />
+          <div class="spacer"></div>
+          <div class="panel-group" role="tablist">
+            <h3>Association Questions</h3>
+            <div id="3" class="anchor"></div>
+            <br>
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab">
+                <h2 class="panel-title">
+                  <a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#collapse1" role="button">I received a violation letter. What do I do? <i class="glyphicon glyphicon-plus-sign"></i>
+                    <i class="glyphicon glyphicon-minus-sign"></i>
+                  </a>
+                </h2>
+              </div>
+              <div class="panel-collapse collapse" id="collapse1" role="tabpanel">
+                <div class="panel-body">
+                  <p>Try to correct the violation. Refer to our Covenant Guidelines for a clearer description, or call your community association manager for assistance.</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab">
+                <h2 class="panel-title">
+                  <a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#collapse3" role="button">I am late on my assessment dues. What should I do? <i class="glyphicon glyphicon-plus-sign"></i>
+                    <i class="glyphicon glyphicon-minus-sign"></i>
+                  </a>
+                </h2>
+              </div>
+              <div class="panel-collapse collapse" id="collapse3" role="tabpanel">
+                <div class="panel-body">
+                  <p>Call Community Management ASAP and explain your situation. They will direct you to pay online. Depending on how late you are, you may qualify for a one-time waiver of late fees and interest.</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab">
+                <h2 class="panel-title">
+                  <a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#collapse4" role="button">What is an assessment? <i class="glyphicon glyphicon-plus-sign"></i>
+                    <i class="glyphicon glyphicon-minus-sign"></i>
+                  </a>
+                </h2>
+              </div>
+              <div class="panel-collapse collapse" id="collapse4" role="tabpanel">
+                <div class="panel-body">
+                  <p>Homeowner associations can compel homeowners to pay a share of common expenses, usually per-unit or based on square footage. These expenses generally arise from common property, which varies dramatically depending on the type of association. Some associations are, quite literally, towns, complete with private roads, services, utilities, amenities, community buildings, pools, and even schools. Many condominium associations consider the roofs and exteriors of the structures as the responsibility of the association. Other associations have no common property, but may charge for services or other matters.</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab">
+                <h2 class="panel-title">
+                  <a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#collapse5" role="button">Are &#39;dues&#39; different than &#39;assessments&#39;? <i class="glyphicon glyphicon-plus-sign"></i>
+                    <i class="glyphicon glyphicon-minus-sign"></i>
+                  </a>
+                </h2>
+              </div>
+              <div class="panel-collapse collapse" id="collapse5" role="tabpanel">
+                <div class="panel-body">
+                  <p>A predetermined set of fees usually referred to as &#39;Dues&#39; are collected by HOAs, Community Associations, or divisions of property management for the upkeep of said organizations or neighborhoods in general. These fees are billed at intervals, sometimes by month, quarter, or annually.</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab">
+                <h2 class="panel-title">
+                  <a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#collapse12" role="button">Does my community have an association management company? If so, how do I contact them? <i class="glyphicon glyphicon-plus-sign"></i>
+                    <i class="glyphicon glyphicon-minus-sign"></i>
+                  </a>
+                </h2>
+              </div>
+              <div class="panel-collapse collapse" id="collapse12" role="tabpanel">
+                <div class="panel-body">
+                  <p>Our community is Managed by Leland Management. If you need to contact the management company for any reason, you can find their contact information on the Contact Us page.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
