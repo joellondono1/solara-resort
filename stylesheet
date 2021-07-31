@@ -1,0 +1,289 @@
+html {
+  scroll-behavior: smooth;
+}
+h6, .doc-tree-page-title {
+  font-family: 'Tajawal', sans-serif;
+  font-weight: 700;
+  color: #425165;
+  margin-bottom: .5em;
+  font-size: 3em;
+}
+h2 {
+  color: ##5b5b5b;
+  font-weight: bold;
+}
+h1, h3, h5, td, .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+h1 {
+  color: #5b5b5b;
+}
+.top-template4, .full-slider, .template1-bg {
+   height: 250px;
+}
+.top-template4 .full-slider .template1-bg {
+    min-height: 250px;
+}
+.header {
+  margin-bottom: 4em;
+  margin-top: -20px;
+  height: 250px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.clubhouse {
+  background-image: url(https://www.lelandmanagement.com/system/community_slideshows/slideshow_banners/000/001/453/original/clubhouse-header.jpg?1603127010);
+}
+.restaurant {
+  background-image: url(https://www.lelandmanagement.com/system/community_slideshows/slideshow_banners/000/001/454/original/restaurant-header.jpg?1603127338);
+  background-position: left, center;
+}
+.flowrider {
+  background-image: url(https://www.lelandmanagement.com/system/community_slideshows/slideshow_banners/000/001/455/original/flowrider-header.jpg?1603128022);
+  background-position: right, center;
+}
+.activities {
+  background-image: url(https://www.lelandmanagement.com/system/community_slideshows/slideshow_banners/000/001/456/original/calendar-header.jpg?1603128712);
+}
+.contactus {
+  background-image: url(https://www.lelandmanagement.com/system/community_slideshows/slideshow_banners/000/001/458/original/contact-header.jpg?1603145589);
+  background-position: right, center;
+}
+.faqs {
+  background-image: url(https://www.lelandmanagement.com/system/community_slideshows/slideshow_banners/000/001/459/original/faq-header.jpg?1603146495);
+}
+.color-scheme-2 .above-top {
+  background-color: #425165;
+}
+.template4-title h1 {
+  display: none;
+}
+.template4-title {
+  display: none;
+}
+.top-template4 #slider-text {
+  display: none;
+}
+.docs-template1 {
+  width: 100%;
+}
+.body-template4 p {
+  color: #4f4f4f !important;
+  font-family: 'Open Sans', sans-serif !important;
+}
+ul {
+  font-family: 'Open Sans', sans-serif !important;
+}
+.body-template4 {
+  overflow-x: hidden;
+}
+.template5-title {
+  display: none;
+}
+li.home-item img {
+    display: none;
+}
+.text-center {
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.spacer {
+  padding: .4em;
+  margin: .4em 0;
+}
+.btn-primary {
+  background-color: #97d3b6;
+  border-color: #89bea5;
+}
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+  background-color: #868686;
+  border-color: #89bea5;
+}
+.parallax-bg {
+  background-color: rgb(0 0 0 / 54%);
+  min-height: 600px;
+  padding: 5em 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.parallax-bg h6 {
+  color: #ffffff;
+}
+.parallax {
+  background-image: url(https://www.lelandmanagement.com/system/community_slideshows/slideshow_banners/000/001/457/original/solara-parallax.jpg?1603129453);
+  min-height: 600px;
+  background-attachment: fixed;
+  background-position: top, center;
+  margin: 3em 0;
+}
+.solstice-bg {
+  background-image: url(https://www.lelandmanagement.com/system/community_slideshows/slideshow_banners/000/001/432/original/food_display.png?1599148337);
+  min-height: 300px;
+  background-position: center, right;
+  margin: 3em 0;
+}
+.feature {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f7f7f7;
+  border-radius: .5em;
+  padding: 1em;
+}
+.feature-row {
+  background-color: #f7f7f7;
+  padding: 3.5em 0 0;
+  margin-top: 2em;
+  margin-bottom: 3.5em;
+}
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.carousel {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.menu-bg {
+  background-color: #2aafe3;
+}
+.fwb {
+  background-color: #ebebeb;
+  padding: 3em 0;
+  margin: 3em 0;
+}
+.footer {
+  background-color: #868686;
+  color: #ffffff;
+  padding: 2em 0 1em 0;
+  margin-top: 6em;
+}
+.footer a {
+  color:#ffffff;
+}
+.ticket-img {
+  max-width: 165px;
+  margin-bottom: 2em;
+}
+.img-menu-middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+.img-menu-container:hover .img-menu {
+  opacity: 0.3;
+}
+.img-menu-container:hover .img-menu-middle {
+  opacity: 1;
+}
+.img-menu {
+  width: 100%;
+  max-width: 800px;
+  margin-bottom: 2em;
+}
+.index {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: 'Open Sans', sans-serif;
+}
+.index a {
+  margin-bottom: .5em;
+}
+.anchor {
+  display: block;
+  position: relative;
+  top: -250px;
+  visibility: hidden;
+}
+.top-template4 a.return-home-btn {
+  display: none !important;
+}
+.above-top.t5 .above-top-content .left span {
+  display: none;
+}
+.above-top.t5 .above-top-content {
+  height: 70px;
+}
+@media only screen and (min-width: 991px) {
+  .flex-box-center {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .spacer {
+    padding: 1em;
+    margin: 1em 0;
+  }
+}
+@media only screen and (min-width: 767px) {
+  .above-top.t5 .above-top-content .left img {
+    max-height: 60px;
+  }
+}
+@media (min-width:1200px) {
+  .docs-template1 {
+      margin-top: 30px;
+  }
+}
+ .calendar {
+  max-width: 1170px;
+  margin:auto;
+}
+@media only screen and (min-width: 1024px) {
+  .flex-row {
+    display: flex;
+    align-items: center;
+  }
+  .header {
+    height: 550px
+  }
+  .top-template4, .full-slider, .template1-bg {
+      height: 550px;
+  }
+  .top-template4 .full-slider .template1-bg {
+    min-height: 550px;
+ }
+ .mobile-text {
+   display:none;
+ }
+}
+@media only screen and (max-width: 1024px) {
+  .calendar {
+    max-width: 100%;
+    margin: auto;
+  }
+}
+#top {display: none;
+  background-color: rgb(151 211 182 / 76%);
+  color: #fff;
+  border: none;
+  font-size: 16px;
+  border-radius: 50%;
+  position: fixed;
+  bottom: 100px;
+  right: 50px;
+  z-index: 99;
+  cursor: pointer;
+}
