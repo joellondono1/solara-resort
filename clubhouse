@@ -1,0 +1,73 @@
+<div class="header clubhouse"></div>
+<div class="container">
+  <div class="row" style="margin-bottom:2em;">
+    <div class="col-xs-12">
+      <h6>The Solara Grand Clubhouse</h6>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12 col-md-6">
+      <h1>A State of the Art Amenity Center</h1>
+      <p>No matter who may be joining you on vacation, Solara Resort features amenities that everyone can enjoy. Work up a sweat on the full-sized basketball court, beach volleyball court, or on the soccer field. Afterwards, take a dip in one of the many water amenities found within the community. From the pool, cabanas, FlowRider&reg;, and more, you&rsquo;ll never be short on ways to cool down.</p>
+    </div>
+    <div class="col-xs-12 col-md-6">
+      <div class="videoWrapper">
+        <!-- Copy & Pasted from YouTube -->
+        <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="auto" src="https://www.youtube.com/embed/m1RUvLLMlag" width="100%"></iframe>
+      </div>
+    </div>
+  </div>
+  <div style="padding:2em;">&nbsp;</div>
+  <hr />
+  <div class="row">
+    <div class="spacer">&nbsp;</div>
+    <div class="col-xs-12">
+      <h1 class="text-center">So many options...</h1>
+      <p class="text-center">At Solara, there are many amenities at your disposal; enough for a full day of fun and relaxation. For more info on any of the amenitites, please contact our clubhouse, open daily from 8 am to 8 pm. <a class="btn-link" href="tel:+1407-479-5500">(407) 479-5500</a>. <b>All outdoor amenities at Solara are open, including the gym.</b>
+      </p>
+      <div class="spacer">&nbsp;</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12 col-md-6 col-lg-4">
+      <img class="img-responsive" src="/ckeditor_assets/pictures/17983/content_solara-pool.jpg" style="margin-bottom: 1em;" />
+      <h2 class="text-center" style="margin-bottom:2em;">Pool</h2>
+    </div>
+    <div class="col-xs-12 col-md-6 col-lg-4">
+      <img class="img-responsive" src="/ckeditor_assets/pictures/17987/content_solara-gym.jpg" style="margin-bottom: 1em;" />
+      <h2 class="text-center" style="margin-bottom:2em;">Fitness Center</h2>
+    </div>
+    <div class="col-xs-12 col-md-6 col-lg-4">
+      <img class="img-responsive" src="/ckeditor_assets/pictures/17986/content_solara-dining.jpg" style="margin-bottom: 1em;" />
+      <h2 class="text-center" style="margin-bottom:2em;">Cafe/Dining</h2>
+    </div>
+    <div class="col-xs-12 col-md-6 col-lg-4">
+      <img class="img-responsive" src="/ckeditor_assets/pictures/19063/content_tiki-bar.jpg" style="margin-bottom: 1em;" />
+      <h2 class="text-center" style="margin-bottom:2em;">Tiki Bar</h2>
+    </div>
+    <div class="col-xs-12 col-md-6 col-lg-4">
+      <img class="img-responsive" src="/ckeditor_assets/pictures/17984/content_solara-activity-room.jpg" style="margin-bottom: 1em;" />
+      <h2 class="text-center" style="margin-bottom:2em;">Activity Room</h2>
+    </div>
+    <div class="col-xs-12 col-md-6 col-lg-4">
+      <img class="img-responsive" src="/ckeditor_assets/pictures/17988/content_solara-kids.jpg" style="margin-bottom: 1em;" />
+      <h2 class="text-center" style="margin-bottom:2em;">Kids Water Park</h2>
+    </div>
+    <div class="col-xs-12 col-md-6 col-lg-4">
+      <img class="img-responsive" src="/ckeditor_assets/pictures/17985/content_solara-courts.jpg" style="margin-bottom: 1em;" />
+      <h2 class="text-center" style="margin-bottom:2em;">Basketball Courts</h2>
+    </div>
+  </div>
+</div>
+<div class="footer">
+  <div class="container">
+    <div class="text-center">
+      <p>
+        <span style="color:#ffffff;">Solara Resort | 1575 Carey Palm Cir. Kissimmee, FL 34747 | <a href="tel:+1407479-5500" style="color:#ffffff;">(407) 479-5500</a> | </span>
+        <a href="https://www.facebook.com/Solara-Resort-Clubhouse-110331534091241" target="_blank">
+          <i class="fab fa-facebook" style="color:#ffffff;"></i>
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
