@@ -1,0 +1,104 @@
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <h6>Welcome to Solara Resort!</h6>
+      <br>
+      <p>Solara Resort boasts Mattamy Homes’ trademark stylish exterior and well-appointed interior. Perfectly located off US-192, nearby highways I-4 and US-27, just 8 miles to world class theme parks, and a short commute to world-famous Orlando Area Attractions, and Local Beaches. Enjoy easy access to popular shopping and dining areas along International Drive or at the Prime Outlet Mall. This gated resort-style community has it all from an on-site restaurant and coffee bar to a zero-entry pool, pool bar, fitness center, basketball court, soccer field, volleyball court, gaming stations, sports simulator, yoga lawn, children’s playground, splash pad, waterslides, Flowrider®, and more!</p>
+    </div>
+  </div>
+</div>
+<div class="spacer"></div>
+<div class="parallax">
+  <div class="parallax-bg">
+    <div class="container">
+      <div class="row" style="padding-bottom:0;">
+        <div class="col-xs-12 col-m-7 text-center">
+          <h6>EXPERIENCE THE MAGIC!</h6>
+          <br>
+          <h1 style="color:#ffffff;">Our Grand Amenity Center and Clubhouse has so much to offer. It's the perfect place to relax, eat, and play! Find out more what's available for you to enjoy.</h1>
+          <a class="btn btn-primary btn-lg" href="https://www.solararesorthoa.com/community_portal/content?id=17694">
+            <i class="fas fa-arrow-right" style="margin-right:.5em;"></i>Explore the clubhouse </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="spacer"></div>
+<div class="container">
+  <div class="row" style="display:flex; flex-direction:row;align-items:center;flex-wrap:wrap;">
+    <div class="col-xs-12 col-md-6 col-lg-6">
+      <h6>Reviews <i class="fas fa-star" style="color:#97d3b6"></i>
+        <i class="fas fa-star" style="color:#97d3b6"></i>
+        <i class="fas fa-star" style="color:#97d3b6"></i>
+      </h6>
+      <br>
+      <h1>Solara Resort is a wonderful place with friendly staff that ensure your day is nothing less than perfect. Visitors love the pool, food, and especially the FLOWRIDER! But Don't take our word for it, check out what our visitors have to say...</h1>
+    </div>
+    <div class="col-xs-12 col-md-6 col-lg-6">
+      <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+          <div class="item active">
+            <img src="https://www.lelandmanagement.com/ckeditor_assets/pictures/17231/content_solara-review-1.png" />
+          </div>
+          <div class="item">
+            <img src="https://www.lelandmanagement.com/ckeditor_assets/pictures/17233/content_solara-review-2.png" />
+          </div>
+          <div class="item">
+            <img src="https://www.lelandmanagement.com/ckeditor_assets/pictures/17234/content_solara-review-3.png" />
+          </div>
+          <div class="item">
+            <img src="https://www.lelandmanagement.com/ckeditor_assets/pictures/17235/content_solara-review-4.png" />
+          </div>
+          <div class="item">
+            <img src="https://www.lelandmanagement.com/ckeditor_assets/pictures/17236/content_solara-review-5.png" />
+          </div>
+          <div class="item">
+            <img src="https://www.lelandmanagement.com/ckeditor_assets/pictures/17232/content_solara-review-6.png" />
+          </div>
+        </div>
+        <!-- Controls -->
+        <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+          <i class="glyphicon glyphicon-chevron-left" aria-hidden="true"></i>
+          <i class="sr-only">Previous</i>
+        </a>
+        <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+          <i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>
+          <i class="sr-only">Next</i>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="spacer"></div>
+<div class="spacer"></div>
+<div class="container">
+  <div class="row" style="display:flex; flex-direction:row;align-items:center;flex-wrap:wrap;justify-content:center;padding-bottom:0;">
+    <div class="col-xs-12 col-md-8" style="display:flex; flex-direction:row;align-items:center;flex-wrap:wrap;justify-content:space-evenly;">
+      <img class="img-responsive ticket-img" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/17238/content_authorize-ticket-seller-logo_preview.jpg" />
+      <img class="img-responsive ticket-img" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/17239/content_universal-authorized-retailer_preview.png" />
+      <img class="img-responsive ticket-img" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/17237/content_sea-world-authorized-seller_preview.jpg" />
+    </div>
+    <div class="col-xs-12 col-md-8">
+      <center>
+        <p>
+          <a class="btn-link" href="https://www.allguest.com/" target="_blank">
+            <b>Park tickets avaiable on Allguest.com!</b>
+          </a>
+        </p>
+      </center>
+    </div>
+  </div>
+</div>
+<div class="footer">
+  <div class="container">
+    <div class="text-center">
+      <p>
+        <span style="color:#ffffff;">Solara Resort | 1575 Carey Pal Cir. Kissimmee, FL 34747 | <a href="tel:+1407479-5500" style="color:#ffffff;">(407) 479-5500</a> | </span>
+        <a href="https://www.facebook.com/Solara-Resort-Clubhouse-110331534091241" target="_blank">
+          <i class="fab fa-facebook" style="color:#ffffff;"></i>
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
