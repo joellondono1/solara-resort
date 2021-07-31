@@ -1,0 +1,101 @@
+<div class="header flowrider"></div>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <h6>Flowrider</h6>
+      <br>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12 col-md-6 col-lg-7">
+      <p>Mattamy Homes and Solara Resort have partnered with WhiteWater West to bring an international competition level FlowRider system to Central Florida!</p>
+      <h1>What is a FlowRider?</h1>
+      <p>
+        <i class="fas fa-circle" style="margin-right:1em;color:#96d2b6;"></i>This compact “wave-in-a-box” allows guests to try the thrill of surfing/wakeboarding in a controlled environment.
+      </p>
+      <p>
+        <i class="fas fa-circle" style="margin-right:1em;color:#96d2b6;"></i>FlowRiding is ideal for participants of all ages and skill levels, including first time riders. Our pros have competed in national competitions and are happy to share their knowledge with every guest!
+      </p>
+      <p>
+        <i class="fas fa-circle" style="margin-right:1em;color:#96d2b6;"></i>With a tensioned fabric ride surface, FlowRiding is about as safe as it gets for an extreme sport.
+      </p>
+    </div>
+    <div class="col-xs-12 col-md-6 col-lg-5">
+      <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" style="width:100%;margin-bottom:15px;">
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+          <div class="item active">
+            <img src="/ckeditor_assets/pictures/17250/content_waterboard.jpg" />
+          </div>
+          <div class="item">
+            <img src="https://www.lelandmanagement.com/ckeditor_assets/pictures/17294/content_c62d7b54-8281-4f69-8823-0de07f33258c.jpg" />
+          </div>
+          <div class="item">
+            <img src="https://www.lelandmanagement.com/ckeditor_assets/pictures/17293/content_c5015e5b-054d-4eb0-add9-921d37999738.jpg" />
+          </div>
+          <div class="item">
+            <img src="https://www.lelandmanagement.com/ckeditor_assets/pictures/17290/content_27ac8bba-1179-4af8-99b1-88563b2966d8.jpg" />
+          </div>
+          <div class="item">
+            <img src="https://www.lelandmanagement.com/ckeditor_assets/pictures/17291/content_fbbb7444-61f0-4c29-825f-d95f4517bc0f.jpg" />
+          </div>
+          <div class="item">
+            <img src="https://www.lelandmanagement.com/ckeditor_assets/pictures/17292/content_7c8835ae-b49c-43c7-b5f6-ea968a4f98b8.jpg" />
+          </div>
+        </div>
+        <!-- Controls -->
+        <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+          <i class="glyphicon glyphicon-chevron-left" aria-hidden="true"></i>
+          <i class="sr-only">Previous</i>
+        </a>
+        <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+          <i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>
+          <i class="sr-only">Next</i>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="spacer"></div>
+<div class="fwb">
+  <div class="spacer"></div>
+  <div class="container">
+    <div class="row" style="display:flex;flex-direction:row;flex-wrap:wrap;align-items:center;">
+      <div class="col-xs-12 col-md-6">
+        <center>
+          <a href="https://book.peek.com/s/6debadce-40e6-4b46-a7f4-f59f66136141/d40e" target="_blank">
+            <img class="img-responsive" style="margin-bottom:1.5em;" src="/ckeditor_assets/pictures/17407/content_flowrider-pricing.png" />
+          </a>
+        </center>
+      </div>
+      <div class="col-xs-12 col-md-6">
+        <h6>Go With the Flow!</h6>
+        <h1>Experience the thrill of surfing in a relaxed, beach-like enviroment, without the intense ocean experience. All riders can have a fun experience and raise their skill and learn tricks!</h1>
+        <a class="btn btn-primary btn-lg" href="https://book.peek.com/s/6debadce-40e6-4b46-a7f4-f59f66136141/d40e" target="_blank">Book Your Ride Today!</a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="spacer"></div>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-md-6">
+      <img class="img-responsive" style="margin-bottom:1em;" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/17231/content_solara-review-1.png">
+    </div>
+    <div class="col-xs-12 col-md-6">
+      <img class="img-responsive" style="margin-bottom:1em;" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/17234/content_solara-review-3.png">
+    </div>
+  </div>
+</div>
+<div class="footer">
+  <div class="container">
+    <div class="text-center">
+      <p>
+        <span style="color:#ffffff;">Solara Resort | 1575 Carey Pal Cir. Kissimmee, FL 34747 | <a href="tel:+1407479-5500" style="color:#ffffff;">(407) 479-5500</a> | </span>
+        <a href="https://www.facebook.com/Solara-Resort-Clubhouse-110331534091241" target="_blank">
+          <i class="fab fa-facebook" style="color:#ffffff;"></i>
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
