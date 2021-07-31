@@ -1,0 +1,72 @@
+<div class="header contactus"></div>
+<div class="container">
+  <div class="row" style="padding-bottom:0;">
+    <div class="col-xs-12">
+      <h6>Contact Us</h6>
+    </div>
+  </div>
+  <div class="spacer"></div>
+  <div class="row" style="padding-bottom:0;">
+    <div class="col-xs-12 col-sm-6 col-md-4">
+      <div style="margin-bottom:2.5em;">
+        <i class="fas fa-hotel fa-3x" style="color: #97d3b6;"></i>
+        <h2>Solara Clubhouse</h2>
+        <p>The clubhouse is responsible for managing the day to day activities of the resort and guests.</p>
+        <p>
+          <a href="tel:+1407-479-5500">(407) 479-5500</a>
+          <br /> 1575 Carey Palm Cir. <br /> Kissimmeee, FL 34747
+        </p>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4">
+      <div style="margin-bottom:2.5em;">
+        <i class="fas fa-user-tie fa-3x" style="color: #97d3b6;"></i>
+        <h2>Association Manager</h2>
+        <p>Your association manager is responsible for managing the residents and HOA matters.</p>
+        <p>
+          <a href="tel:+1407-781-1179">(407) 781-1179</a>
+          <br /> Cynthis DeLeon <br />
+          <a class="btn-link" href="mailto:cdeleon@lelandmanagement.com">cdeleon@lelandmanagement.com</a>
+        </p>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4">
+      <div style="margin-bottom:2.5em;">
+        <i class="fas fa-building fa-3x" style="color: #97d3b6;"></i>
+        <h2>Management Company</h2>
+        <p>Leland Management manages the Resort and HOA. Contact us for Resident Support and web issues.</p>
+        <p>
+          <a href="tel:+1407-447-9955">(407) 447-9955</a>
+          <br /> 6972 Lake Gloria Blvd. <br /> Orlando, FL 32809.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div class="spacer"></div>
+  <div class="row" style="padding-bottom:0;">
+    <div class="col-xs-12">
+      <h1>Residents</h1>
+      <br>
+      <p>For questions regarding your account and payments please contact our Resident Support department. They can be reached via email @ <a href="mailto:residentsupport@lelandmanagement.com">residentsupport@lelandmanagement.com</a>. If you are expereincing issues with the website please send an email to our website department: <a href="mailto:websitehelp@lelandmanagement.com">websitehelp@lelandmanagement.com</a>. Our resident support and website department are open Monday - Friday from 8 am to 5 pm. For all other HOA related issues, contact your community association manager, Cynthia DeLeon via the form below. </p>
+      <p>
+        <a id="email-cam" class="btn btn-primary" data-target="#contact-modal" data-toggle="modal" href="#">Contact CAM</a>
+      </p>
+    </div>
+  </div>
+</div>
+<div class="spacer"></div>
+<div class="spacer"></div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3512.744485776585!2d-81.64917650007662!3d28.30606331106311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88dd7b77ce1f6471%3A0xd3f99ff6b12f71ad!2sMattamy%20Homes%20-%20Solara%20Resort!5e0!3m2!1sen!2sus!4v1596836519334!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0;margin-bottom:-6.5em;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<div class="footer">
+  <div class="container">
+    <div class="text-center">
+      <p>
+        <span style="color:#ffffff;">Solara Resort | 1575 Carey Pal Cir. Kissimmee, FL 34747 | <a href="tel:+1407479-5500" style="color:#ffffff;">(407) 479-5500</a> | </span>
+        <a href="https://www.facebook.com/Solara-Resort-Clubhouse-110331534091241" target="_blank">
+          <i class="fab fa-facebook" style="color:#ffffff;"></i>
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
